@@ -1,7 +1,8 @@
 To build the binary from the source code yourself all you need is python>=3.10 and pyinstaller.  
 
-git pull 
-
+```
+git clone Wontfallo/LMStudio-JSON-Chat-to-Text
+```
 ```
 pip install pyinstaller
 ```
